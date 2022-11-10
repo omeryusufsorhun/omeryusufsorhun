@@ -2,7 +2,7 @@
 <h1 align="center">
   Hi everyone, my name is Omer Yusuf SORHUN
 </h1> 
-> 
+
 
 I have been interested in software for a long time, I had the opportunity to improve myself in many areas. I found that I am more interested in web programming (like javascript html css reactjs vuejs bootstrap tailwindcss nodejs). I am a junior and I am very excited to gain experience when I graduate. In order not to forget my code habit, I write code and make projects every day.
 
